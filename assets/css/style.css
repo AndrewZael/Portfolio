@@ -1,6 +1,9 @@
 * {
     font-family: 'Roboto' , sans-serif;
 }
+body{
+    overflow-x: hidden;
+}
 .texthead {
     letter-spacing: 0.5em;
 }
